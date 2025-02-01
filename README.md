@@ -134,8 +134,8 @@ To run this project, you will need to add the following environment variables to
 
 ## Support
 
-For support, email younussaberi@gmail.com 
-Contact me at [Linkedin](https://www.linkedin.com/in/younus-saberi/)
+For support, email nischithpm23@gmail.com 
+Contact me at [Linkedin]([https://www.linkedin.com/in/younus-saberi/](https://www.linkedin.com/in/nischith-pm-6a20aa261?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))
 
 
 ## Documentation
