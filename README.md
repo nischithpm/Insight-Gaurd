@@ -1,6 +1,6 @@
 <h1 align="center" id="title">Insight-Guard</h1>
 
-<p align="center"><img src="https://socialify.git.ci/Younus-Saberi/Insight-Guard/image?description=1&amp;font=Raleway&amp;forks=1&amp;issues=1&amp;language=1&amp;name=1&amp;owner=1&amp;pattern=Signal&amp;pulls=1&amp;stargazers=1&amp;theme=Dark" alt="project-image"></p>
+
 
 
 # Insight Guard
