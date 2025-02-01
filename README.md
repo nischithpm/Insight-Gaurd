@@ -18,7 +18,7 @@ most challenging process in case of open angle glaucoma (OAG) due to lack of ini
 Clone the project locally
 
 ```bash
-  git clone https://github.com/Younus-Saberi/Insight-Guard
+  git clone https://github.com/nischithpm/Insight-Guard
 ```
 ### Change the Directory to Backend
 ```bash
